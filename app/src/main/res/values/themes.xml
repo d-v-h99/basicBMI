@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.HocSharePreferences" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+         <item name="colorPrimary">@color/layout_background</item>
+        <item name="colorPrimaryVariant">@color/layout_background</item>
+    </style>
+
+    <style name="Theme.HocSharePreferences" parent="Base.Theme.HocSharePreferences" />
+</resources>
